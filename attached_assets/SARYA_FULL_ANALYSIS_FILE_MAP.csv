@@ -1,0 +1,693 @@
+file,status,assumed_role
+social_media_ghost_cloner.py,Unused,Clone launcher or job system
+system_diagnostics.py,Unused,"Support, prototype, or future-optional module"
+sarya_engine.py,Used Core,"Support, prototype, or future-optional module"
+overwatch_panel.py,Unused,"Support, prototype, or future-optional module"
+sarya_dashboard_flask.py,Unused,Alternate or legacy UI
+sarya_dashboard_fastapi.py,Used Core,Alternate or legacy UI
+plugin_loader.py,Used Core,"Support, prototype, or future-optional module"
+clone_jobs.py,Used Core,Clone launcher or job system
+clone_worker.py,Used Core,Clone launcher or job system
+clone_enqueue.py,Used Core,Clone launcher or job system
+emotional_reflex_engine.py,Used Core,Reflex-related or feedback system
+spiritual_guidance_core.py,Used Core,Visual GUI prototype
+affiliate_engine/affiliate_autoposter.py,Unused,"Support, prototype, or future-optional module"
+aria-eternal-launch-main/aria_dispatcher_gui_telegram_voice_dashboard.py,Unused,Alternate or legacy UI
+aria-eternal-launch-main/affiliate_engine/affiliate_autoposter.py,Unused,"Support, prototype, or future-optional module"
+aria-eternal-launch-main/aria_core/ai_intelligence_core/real_time_risk_grid.py,Unused,"Support, prototype, or future-optional module"
+aria-eternal-launch-main/aria_core/dispatcher/dispatcher_core.py,Unused,"Support, prototype, or future-optional module"
+aria_core/ai_intelligence_core/real_time_risk_grid.py,Unused,"Support, prototype, or future-optional module"
+aria_core/dispatcher/dispatcher_core.py,Unused,"Support, prototype, or future-optional module"
+clones/autoscale_engine.py,Unused,Clone launcher or job system
+core/sarya_memory_core.py,Unused,"Support, prototype, or future-optional module"
+core/sarya_interface.py,Unused,"Support, prototype, or future-optional module"
+core/sarya_identity.py,Unused,"Support, prototype, or future-optional module"
+core/heartbeat.py,Unused,"Support, prototype, or future-optional module"
+core/archive_gpt_snapshot.py,Unused,"Support, prototype, or future-optional module"
+core/learning_feedback_loop.py,Unused,"Support, prototype, or future-optional module"
+core/sqlite_memory_engine.py,Unused,"Support, prototype, or future-optional module"
+core/memory_core.py,Unused,"Support, prototype, or future-optional module"
+core/gpt_snapshot_scorer.py,Unused,"Support, prototype, or future-optional module"
+core/gpt_snapshot_writer.py,Unused,"Support, prototype, or future-optional module"
+core/snapshot_archiver.py,Unused,"Support, prototype, or future-optional module"
+core/aria_soul_codex.py,Unused,"Support, prototype, or future-optional module"
+dispatcher/dispatcher.py,Unused,"Support, prototype, or future-optional module"
+dormant/sentiment_fusion.py,Unused,"Support, prototype, or future-optional module"
+dormant/autoscale_engine.py,Unused,"Support, prototype, or future-optional module"
+dormant/test_affiliate_autoposter.py,Unused,Test or diagnostic module
+dormant/test_real_time_alerts.py,Unused,Test or diagnostic module
+dormant/test_sentiment_analysis.py,Unused,Test or diagnostic module
+dormant/test_sentiment_fusion.py,Unused,Test or diagnostic module
+dormant/test_autoscale_engine.py,Unused,Test or diagnostic module
+dormant/test_system_diagnostics.py,Unused,Test or diagnostic module
+dormant/test_resume_booster.py,Unused,Test or diagnostic module
+dormant/test_microservice_splitter.py,Unused,Test or diagnostic module
+dormant_clones/clone_auto_scaling.py,Unused,Clone launcher or job system
+dormant_clones/clone_evolution_engine.py,Unused,Clone launcher or job system
+dormant_clones/clone_factory.py,Unused,Clone launcher or job system
+dormant_clones/clone_farm.py,Unused,Clone launcher or job system
+dormant_clones/clone_intelligence_core.py,Unused,Clone launcher or job system
+dormant_clones/auto_healer.py,Unused,Clone launcher or job system
+dormant_clones/strategic_dashboard.py,Unused,Alternate or legacy UI
+dormant_clones/clone_journal.py,Unused,Clone launcher or job system
+dormant_clones/orchestrator.py,Unused,Clone launcher or job system
+dormant_clones/aria_kernel.py,Unused,Clone launcher or job system
+dormant_clones/license_generator.py,Unused,Clone launcher or job system
+dormant_clones/clone_command_engine.py,Unused,Clone launcher or job system
+dormant_clones/clone_hub.py,Unused,Clone launcher or job system
+dormant_clones/clone_income_router.py,Unused,Clone launcher or job system
+dormant_clones/clone_intelligence_sync.py,Unused,Clone launcher or job system
+dormant_clones/clone_memory_store.py,Unused,Clone launcher or job system
+dormant_clones/clone_mission_router.py,Unused,Clone launcher or job system
+dormant_clones/clone_orchestrator.py,Unused,Clone launcher or job system
+dormant_clones/replication_engine.py,Unused,Clone launcher or job system
+dormant_clones/clone_task_queue.py,Unused,Clone launcher or job system
+dormant_clones/clone_worker.py,Unused,Clone launcher or job system
+dormant_clones/__init__.py,Unused,Clone launcher or job system
+dormant_clones/clone_commands_telegram.py,Unused,Clone launcher or job system
+dormant_clones/clone_expansion_framework.py,Unused,Clone launcher or job system
+dormant_clones/clone_manager.py,Unused,Clone launcher or job system
+dormant_clones/clone_warfare_core.py,Unused,Clone launcher or job system
+dormant_clones/freelance_clone_1.py,Unused,Clone launcher or job system
+dormant_clones/shadow_unit_06.py,Unused,Clone launcher or job system
+dormant_clones/aria_boot_kernel.py,Unused,Clone launcher or job system
+dormant_clones/aria_dispatcher.py,Unused,Clone launcher or job system
+dormant_clones/meta_command.py,Unused,Clone launcher or job system
+dormant_clones/module_validator.py,Unused,Clone launcher or job system
+dormant_clones/behavioral_targeting.py,Unused,Clone launcher or job system
+dormant_clones/command_center.py,Unused,Clone launcher or job system
+dormant_clones/data_integration.py,Unused,Clone launcher or job system
+dormant_clones/gpt_brain_viewer.py,Unused,Clone launcher or job system
+dormant_clones/hi_aria_trigger.py,Unused,Clone launcher or job system
+dormant_clones/plugin_store.py,Unused,Clone launcher or job system
+dormant_clones/quantum_deployment_engine.py,Unused,Clone launcher or job system
+dormant_clones/reverse_engineer.py,Unused,Clone launcher or job system
+dormant_clones/upsell_engine.py,Unused,Clone launcher or job system
+dormant_clones/email_writer.py,Unused,Clone launcher or job system
+dormant_clones/gig_autopilot.py,Unused,Clone launcher or job system
+dormant_clones/global_replication.py,Unused,Clone launcher or job system
+dormant_clones/grid_telegram_control.py,Unused,Clone launcher or job system
+dormant_clones/income_core.py,Unused,Clone launcher or job system
+dormant_clones/analytics_tracker.py,Unused,Clone launcher or job system
+dormant_clones/aria_interlink_engine.py,Unused,Clone launcher or job system
+dormant_clones/behavioral_tuner.py,Unused,Clone launcher or job system
+dormant_clones/council_protocol.py,Unused,Clone launcher or job system
+dormant_clones/grid_node_engine.py,Unused,Clone launcher or job system
+dormant_clones/live_grid_controller.py,Unused,Clone launcher or job system
+dormant_clones/multi_agent_synergy.py,Unused,Clone launcher or job system
+dormant_clones/reinforcement_learning.py,Unused,Clone launcher or job system
+dormant_clones/revenue_map_ai.py,Unused,Clone launcher or job system
+dormant_clones/aria_dashboard.py,Unused,Alternate or legacy UI
+dormant_clones/mission_feedback_queue.py,Unused,Clone launcher or job system
+dormant_clones/profit_loop.py,Unused,Clone launcher or job system
+dormant_clones/aria_dispatcher_gui_telegram_voice.py,Unused,Voice interface (currently dormant)
+dormant_clones/aria_gui.py,Unused,Visual GUI prototype
+dormant_clones/dynamic_task_router.py,Unused,Clone launcher or job system
+dormant_clones/grid_gui_launcher.py,Unused,Visual GUI prototype
+dormant_clones/income_tracker.py,Unused,Clone launcher or job system
+dormant_clones/dashboard_gui.py,Unused,Alternate or legacy UI
+dormant_clones/daily_optimizer.py,Unused,Clone launcher or job system
+dormant_clones/emotion_layer.py,Unused,Clone launcher or job system
+dormant_clones/persona_engine.py,Unused,Clone launcher or job system
+dormant_clones/stealth_deployer.py,Unused,Clone launcher or job system
+dormant_clones/telemetry_collector.py,Unused,Clone launcher or job system
+dormant_clones/test_clone_auto_scaling.py,Unused,Test or diagnostic module
+dormant_clones/test_clone_command_engine.py,Unused,Test or diagnostic module
+dormant_clones/test_clone_commands_telegram.py,Unused,Test or diagnostic module
+dormant_clones/test_clone_evolution_engine.py,Unused,Test or diagnostic module
+dormant_clones/test_clone_expansion_framework.py,Unused,Test or diagnostic module
+dormant_clones/test_clone_factory.py,Unused,Test or diagnostic module
+dormant_clones/test_clone_farm.py,Unused,Test or diagnostic module
+dormant_clones/test_clone_hub.py,Unused,Test or diagnostic module
+dormant_clones/test_clone_income_router.py,Unused,Test or diagnostic module
+dormant_clones/test_clone_intelligence_core.py,Unused,Test or diagnostic module
+dormant_clones/test_clone_intelligence_sync.py,Unused,Test or diagnostic module
+dormant_clones/test_clone_journal.py,Unused,Test or diagnostic module
+dormant_clones/test_clone_manager.py,Unused,Test or diagnostic module
+dormant_clones/test_clone_memory_store.py,Unused,Test or diagnostic module
+dormant_clones/test_clone_mission_router.py,Unused,Test or diagnostic module
+dormant_clones/test_clone_orchestrator.py,Unused,Test or diagnostic module
+dormant_clones/test_clone_orchestrator_dashboard.py,Unused,Test or diagnostic module
+dormant_clones/test_clone_task_queue.py,Unused,Test or diagnostic module
+dormant_clones/test_clone_warfare_core.py,Unused,Test or diagnostic module
+dormant_clones/test_clone_worker.py,Unused,Test or diagnostic module
+dormant_clones/test_freelance_clone_1.py,Unused,Test or diagnostic module
+dormant_clones/test_mission_feedback_queue.py,Unused,Test or diagnostic module
+dormant_clones/test_persona_engine.py,Unused,Test or diagnostic module
+dormant_clones/test_voice_persona_phase_2.py,Unused,Test or diagnostic module
+dormant_clones/ai_cloning_feedback.py,Unused,Clone launcher or job system
+dormant_clones/ethical_ai.py,Unused,Clone launcher or job system
+dormant_clones/voice_persona_phase_2.py,Unused,Voice interface (currently dormant)
+dormant_clones/dashboard_app.py,Unused,Alternate or legacy UI
+dormant_gui/sarya_dashboard_streamlit.py,Unused,Alternate or legacy UI
+experimental_tools/backtesting_framework.py,Unused,Test or diagnostic module
+experimental_tools/negotiator.py,Unused,Experimental or future module
+experimental_tools/sarya_healer.py,Unused,Experimental or future module
+experimental_tools/funnel_splitter.py,Unused,Experimental or future module
+experimental_tools/llm_agent.py,Unused,Experimental or future module
+experimental_tools/scheduler.py,Unused,Experimental or future module
+experimental_tools/test_AI_Trading_Enhancements.py,Unused,Test or diagnostic module
+experimental_tools/test_Content_Monetization_And_Digital_Products.py,Unused,Test or diagnostic module
+experimental_tools/test_Crypto_Arbitrage_And_Yield_Optimization.py,Unused,Test or diagnostic module
+experimental_tools/test_SaaS_Monetization_Optimization.py,Unused,Test or diagnostic module
+experimental_tools/test_System_Integration_And_Continuous_Improvement.py,Unused,Test or diagnostic module
+experimental_tools/test_acquisition_engine.py,Unused,Test or diagnostic module
+experimental_tools/test_advanced_allocator.py,Unused,Test or diagnostic module
+experimental_tools/test_affiliate_bot.py,Unused,Test or diagnostic module
+experimental_tools/test_affiliate_scraper.py,Unused,Test or diagnostic module
+experimental_tools/test_ai_engine_service.py,Unused,Test or diagnostic module
+experimental_tools/test_ai_news_feed_handler.py,Unused,Test or diagnostic module
+experimental_tools/test_analytics_tracker.py,Unused,Test or diagnostic module
+experimental_tools/test_archive_gpt_snapshot.py,Unused,Test or diagnostic module
+experimental_tools/test_aria.py,Unused,Test or diagnostic module
+experimental_tools/test_aria_console.py,Unused,Test or diagnostic module
+experimental_tools/test_aria_interlink_engine.py,Unused,Test or diagnostic module
+experimental_tools/test_aria_lifepath_mode.py,Unused,Test or diagnostic module
+experimental_tools/test_aria_status.py,Unused,Test or diagnostic module
+experimental_tools/test_aria_vanta_core_brain.py,Unused,Test or diagnostic module
+experimental_tools/test_async_core_executor.py,Unused,Test or diagnostic module
+experimental_tools/test_auto_trading_intelligence_3_0.py,Unused,Test or diagnostic module
+experimental_tools/test_auto_updater.py,Unused,Test or diagnostic module
+experimental_tools/test_backtesting_framework.py,Unused,Test or diagnostic module
+experimental_tools/test_base_module.py,Unused,Test or diagnostic module
+experimental_tools/test_behavioral_targeting.py,Unused,Test or diagnostic module
+experimental_tools/test_behavioral_tuner.py,Unused,Test or diagnostic module
+experimental_tools/test_campaign_generator.py,Unused,Test or diagnostic module
+experimental_tools/test_cognitive_cache_reactor.py,Unused,Test or diagnostic module
+experimental_tools/test_command_center.py,Unused,Test or diagnostic module
+experimental_tools/test_command_router.py,Unused,Test or diagnostic module
+experimental_tools/test_compliance_engine.py,Unused,Test or diagnostic module
+experimental_tools/test_compliance_guardian.py,Unused,Test or diagnostic module
+experimental_tools/test_context.py,Unused,Test or diagnostic module
+experimental_tools/test_council_protocol.py,Unused,Test or diagnostic module
+experimental_tools/test_creative_business_generator.py,Unused,Test or diagnostic module
+experimental_tools/test_creative_generator.py,Unused,Test or diagnostic module
+experimental_tools/test_creator_intercept.py,Unused,Test or diagnostic module
+experimental_tools/test_daily_optimizer.py,Unused,Test or diagnostic module
+experimental_tools/test_data_cache.py,Unused,Test or diagnostic module
+experimental_tools/test_data_integration.py,Unused,Test or diagnostic module
+experimental_tools/test_dm_sniper.py,Unused,Test or diagnostic module
+experimental_tools/test_dynamic_task_router.py,Unused,Test or diagnostic module
+experimental_tools/test_edge_computing.py,Unused,Test or diagnostic module
+experimental_tools/test_email_campaign.py,Unused,Test or diagnostic module
+experimental_tools/test_email_writer.py,Unused,Test or diagnostic module
+experimental_tools/test_env_loader.py,Unused,Test or diagnostic module
+experimental_tools/test_ethical_ai.py,Unused,Test or diagnostic module
+experimental_tools/test_event_driven_simulation.py,Unused,Test or diagnostic module
+experimental_tools/test_federated_learning.py,Unused,Test or diagnostic module
+experimental_tools/test_funnel_builder.py,Unused,Test or diagnostic module
+experimental_tools/test_funnel_splitter.py,Unused,Test or diagnostic module
+experimental_tools/test_gig_autopilot.py,Unused,Test or diagnostic module
+experimental_tools/test_global_ops_coordinator.py,Unused,Test or diagnostic module
+experimental_tools/test_gpt_brain_viewer.py,Unused,Test or diagnostic module
+experimental_tools/test_gpt_snapshot_scorer.py,Unused,Test or diagnostic module
+experimental_tools/test_gpt_snapshot_writer.py,Unused,Test or diagnostic module
+experimental_tools/test_grid_node_engine.py,Unused,Test or diagnostic module
+experimental_tools/test_grow_profit.py,Unused,Test or diagnostic module
+experimental_tools/test_hi_aria_trigger.py,Unused,Test or diagnostic module
+experimental_tools/test_job_scraper.py,Unused,Test or diagnostic module
+experimental_tools/test_license_generator.py,Unused,Test or diagnostic module
+experimental_tools/test_live_grid_controller.py,Unused,Test or diagnostic module
+experimental_tools/test_llm_agent.py,Unused,Test or diagnostic module
+experimental_tools/test_log_handler.py,Unused,Test or diagnostic module
+experimental_tools/test_log_manager.py,Unused,Test or diagnostic module
+experimental_tools/test_macroeconomic_engine.py,Unused,Test or diagnostic module
+experimental_tools/test_master_audit_engine.py,Unused,Test or diagnostic module
+experimental_tools/test_meta_command.py,Unused,Test or diagnostic module
+experimental_tools/test_meta_command_layer.py,Unused,Test or diagnostic module
+experimental_tools/test_micro_saas_builder.py,Unused,Test or diagnostic module
+experimental_tools/test_mirror_sync_engine.py,Unused,Test or diagnostic module
+experimental_tools/test_module_validator.py,Unused,Test or diagnostic module
+experimental_tools/test_multi_agent_synergy.py,Unused,Test or diagnostic module
+experimental_tools/test_negotiator.py,Unused,Test or diagnostic module
+experimental_tools/test_neural_overdrive.py,Unused,Test or diagnostic module
+experimental_tools/test_neural_vanta_fusion.py,Unused,Test or diagnostic module
+experimental_tools/test_opportunity_scanner.py,Unused,Test or diagnostic module
+experimental_tools/test_orchestrator.py,Unused,Test or diagnostic module
+experimental_tools/test_parallel_executor.py,Unused,Test or diagnostic module
+experimental_tools/test_performance_optimizer.py,Unused,Test or diagnostic module
+experimental_tools/test_persistent_core.py,Unused,Test or diagnostic module
+experimental_tools/test_plugin_engine.py,Unused,Test or diagnostic module
+experimental_tools/test_plugin_store.py,Unused,Test or diagnostic module
+experimental_tools/test_portfolio_intelligence.py,Unused,Test or diagnostic module
+experimental_tools/test_price_optimizer.py,Unused,Test or diagnostic module
+experimental_tools/test_pricing_engine.py,Unused,Test or diagnostic module
+experimental_tools/test_quantum_deployment_engine.py,Unused,Test or diagnostic module
+experimental_tools/test_quantum_reactor.py,Unused,Test or diagnostic module
+experimental_tools/test_regulatory_compliance.py,Unused,Test or diagnostic module
+experimental_tools/test_reinforcement_learning.py,Unused,Test or diagnostic module
+experimental_tools/test_resource_manager.py,Unused,Test or diagnostic module
+experimental_tools/test_retry_backoff.py,Unused,Test or diagnostic module
+experimental_tools/test_revenue_chaining.py,Unused,Test or diagnostic module
+experimental_tools/test_revenue_map_ai.py,Unused,Test or diagnostic module
+experimental_tools/test_reverse_engineer.py,Unused,Test or diagnostic module
+experimental_tools/test_saas_autobuilder.py,Unused,Test or diagnostic module
+experimental_tools/test_scheduler.py,Unused,Test or diagnostic module
+experimental_tools/test_security_compliance.py,Unused,Test or diagnostic module
+experimental_tools/test_security_guardian.py,Unused,Test or diagnostic module
+experimental_tools/test_security_guardian_phase_2.py,Unused,Test or diagnostic module
+experimental_tools/test_setup.py,Unused,Test or diagnostic module
+experimental_tools/test_shadow_unit_06.py,Unused,Test or diagnostic module
+experimental_tools/test_snapshot_archiver.py,Unused,Test or diagnostic module
+experimental_tools/test_snapshot_engine.py,Unused,Test or diagnostic module
+experimental_tools/test_social_content_builder.py,Unused,Test or diagnostic module
+experimental_tools/test_speech_engine.py,Unused,Test or diagnostic module
+experimental_tools/test_spending_interceptor.py,Unused,Test or diagnostic module
+experimental_tools/test_staking_bot.py,Unused,Test or diagnostic module
+experimental_tools/test_stealth_deployer.py,Unused,Test or diagnostic module
+experimental_tools/test_telemetry_collector.py,Unused,Test or diagnostic module
+experimental_tools/test_telemetry_monitoring.py,Unused,Test or diagnostic module
+experimental_tools/test_test_aria_system.py,Unused,Test or diagnostic module
+experimental_tools/test_tiktok_ig_builder.py,Unused,Test or diagnostic module
+experimental_tools/test_tool_launcher.py,Unused,Test or diagnostic module
+experimental_tools/test_trend_seeker_bot.py,Unused,Test or diagnostic module
+experimental_tools/test_upsell_engine.py,Unused,Test or diagnostic module
+experimental_tools/test_user_segmentation.py,Unused,Test or diagnostic module
+experimental_tools/test_volatility_monitor.py,Unused,Test or diagnostic module
+experimental_tools/test_volatility_shield.py,Unused,Test or diagnostic module
+experimental_tools/test_yield_scanner.py,Unused,Test or diagnostic module
+experimental_tools/auto_updater.py,Unused,Experimental or future module
+experimental_tools/multi_agent_synergy.py,Unused,Experimental or future module
+experimental_tools/macroeconomic_engine.py,Unused,Experimental or future module
+experimental_tools/price_optimizer.py,Unused,Experimental or future module
+experimental_tools/codex_lock.py,Unused,Experimental or future module
+experimental_tools/dashboard_launcher.py,Unused,Alternate or legacy UI
+experimental_tools/self_healing_layer.py,Unused,Experimental or future module
+experimental_tools/strategy_reflex.py,Unused,Experimental or future module
+experimental_tools/test_Affiliate_Marketing_Strategies.py,Unused,Test or diagnostic module
+experimental_tools/test_adaptive_strategy.py,Unused,Test or diagnostic module
+experimental_tools/test_ai_cloning_feedback.py,Unused,Test or diagnostic module
+experimental_tools/test_ai_trade_manager.py,Unused,Test or diagnostic module
+experimental_tools/test_analytics_dashboard.py,Unused,Test or diagnostic module
+experimental_tools/test_aria_api.py,Unused,Test or diagnostic module
+experimental_tools/test_aria_boot.py,Unused,Test or diagnostic module
+experimental_tools/test_aria_boot_kernel.py,Unused,Test or diagnostic module
+experimental_tools/test_aria_dashboard.py,Unused,Test or diagnostic module
+experimental_tools/test_aria_dispatcher.py,Unused,Test or diagnostic module
+experimental_tools/test_aria_dispatcher_gui_telegram_voice.py,Unused,Test or diagnostic module
+experimental_tools/test_aria_gui.py,Unused,Test or diagnostic module
+experimental_tools/test_aria_kernel.py,Unused,Test or diagnostic module
+experimental_tools/test_aria_main.py,Unused,Test or diagnostic module
+experimental_tools/test_aria_soul_codex.py,Unused,Test or diagnostic module
+experimental_tools/test_aria_trader.py,Unused,Test or diagnostic module
+experimental_tools/test_aria_unified_main.py,Unused,Test or diagnostic module
+experimental_tools/test_arima_forecasting.py,Unused,Test or diagnostic module
+experimental_tools/test_auth_utils.py,Unused,Test or diagnostic module
+experimental_tools/test_cache_config.py,Unused,Test or diagnostic module
+experimental_tools/test_codex_lock.py,Unused,Test or diagnostic module
+experimental_tools/test_config.py,Unused,Test or diagnostic module
+experimental_tools/test_config_loader.py,Unused,Test or diagnostic module
+experimental_tools/test_core.py,Unused,Test or diagnostic module
+experimental_tools/test_dashboard_and_modules.py,Unused,Test or diagnostic module
+experimental_tools/test_dashboard_app.py,Unused,Test or diagnostic module
+experimental_tools/test_dashboard_commands.py,Unused,Test or diagnostic module
+experimental_tools/test_dashboard_gui.py,Unused,Test or diagnostic module
+experimental_tools/test_dashboard_launcher.py,Unused,Test or diagnostic module
+experimental_tools/test_dispatcher_core.py,Unused,Test or diagnostic module
+experimental_tools/test_dynamic_strategy_switcher.py,Unused,Test or diagnostic module
+experimental_tools/test_dynamic_strategy_switcher_optimized.py,Unused,Test or diagnostic module
+experimental_tools/test_emotion_layer.py,Unused,Test or diagnostic module
+experimental_tools/test_emotion_voice_layer.py,Unused,Test or diagnostic module
+experimental_tools/test_encryption_utils.py,Unused,Test or diagnostic module
+experimental_tools/test_event_logger.py,Unused,Test or diagnostic module
+experimental_tools/test_global_replication.py,Unused,Test or diagnostic module
+experimental_tools/test_grid_dashboard.py,Unused,Test or diagnostic module
+experimental_tools/test_grid_gui_launcher.py,Unused,Test or diagnostic module
+experimental_tools/test_grid_telegram_control.py,Unused,Test or diagnostic module
+experimental_tools/test_launch_dashboard.py,Unused,Test or diagnostic module
+experimental_tools/test_learning_feedback_loop.py,Unused,Test or diagnostic module
+experimental_tools/test_market_data.py,Unused,Test or diagnostic module
+experimental_tools/test_memory_core.py,Unused,Test or diagnostic module
+experimental_tools/test_ml_risk_predictor.py,Unused,Test or diagnostic module
+experimental_tools/test_multi_asset_strategy.py,Unused,Test or diagnostic module
+experimental_tools/test_overwatch_panel.py,Unused,Test or diagnostic module
+experimental_tools/test_predictive_hyperloop.py,Unused,Test or diagnostic module
+experimental_tools/test_profit_dashboard_server.py,Unused,Test or diagnostic module
+experimental_tools/test_profit_loop.py,Unused,Test or diagnostic module
+experimental_tools/test_quantum_adaptive_loop.py,Unused,Test or diagnostic module
+experimental_tools/test_reflex_dashboard_routes.py,Unused,Test or diagnostic module
+experimental_tools/test_reflex_feedback_core.py,Unused,Test or diagnostic module
+experimental_tools/test_replication_engine.py,Unused,Test or diagnostic module
+experimental_tools/test_revenue_feedback.py,Unused,Test or diagnostic module
+experimental_tools/test_risk_engine.py,Unused,Test or diagnostic module
+experimental_tools/test_risk_management.py,Unused,Test or diagnostic module
+experimental_tools/test_self_healing.py,Unused,Test or diagnostic module
+experimental_tools/test_self_healing_layer.py,Unused,Test or diagnostic module
+experimental_tools/test_serverless_trade_execution.py,Unused,Test or diagnostic module
+experimental_tools/test_signal_memory_engine.py,Unused,Test or diagnostic module
+experimental_tools/test_soul_core.py,Unused,Test or diagnostic module
+experimental_tools/test_sqlite_memory_engine.py,Unused,Test or diagnostic module
+experimental_tools/test_strategic_dashboard.py,Unused,Test or diagnostic module
+experimental_tools/test_strategic_profit_loop.py,Unused,Test or diagnostic module
+experimental_tools/test_strategic_reflex_loop.py,Unused,Test or diagnostic module
+experimental_tools/test_strategy_evolution.py,Unused,Test or diagnostic module
+experimental_tools/test_strategy_feedback_ai.py,Unused,Test or diagnostic module
+experimental_tools/test_strategy_forker.py,Unused,Test or diagnostic module
+experimental_tools/test_strategy_leaderboard.py,Unused,Test or diagnostic module
+experimental_tools/test_strategy_override_engine.py,Unused,Test or diagnostic module
+experimental_tools/test_strategy_reflex.py,Unused,Test or diagnostic module
+experimental_tools/test_telegram_bot.py,Unused,Test or diagnostic module
+experimental_tools/test_telegram_reflex_commands.py,Unused,Test or diagnostic module
+experimental_tools/test_terminal_dashboard.py,Unused,Test or diagnostic module
+experimental_tools/test_trade_execution_service.py,Unused,Test or diagnostic module
+experimental_tools/test_voice_alerts.py,Unused,Test or diagnostic module
+experimental_tools/test_voice_command_ai.py,Unused,Test or diagnostic module
+experimental_tools/test_voice_manager.py,Unused,Test or diagnostic module
+experimental_tools/aria_vanta_core_brain.py,Unused,Experimental or future module
+experimental_tools/council_protocol.py,Unused,Experimental or future module
+experimental_tools/aria_trader.py,Unused,Experimental or future module
+experimental_tools/performance_optimizer.py,Unused,Experimental or future module
+independent_systems/ai_engine_service.py,Unused,"Support, prototype, or future-optional module"
+independent_systems/analytics_dashboard.py,Unused,Alternate or legacy UI
+independent_systems/aria_api.py,Unused,"Support, prototype, or future-optional module"
+independent_systems/aria_boot.py,Unused,"Support, prototype, or future-optional module"
+independent_systems/aria_console.py,Unused,"Support, prototype, or future-optional module"
+independent_systems/auth_utils.py,Unused,"Support, prototype, or future-optional module"
+independent_systems/boot.py,Unused,"Support, prototype, or future-optional module"
+independent_systems/clone_orchestrator_dashboard.py,Unused,Alternate or legacy UI
+independent_systems/aria_unified_main.py,Unused,"Support, prototype, or future-optional module"
+independent_systems/dashboard_commands.py,Unused,Alternate or legacy UI
+independent_systems/aria.py,Unused,"Support, prototype, or future-optional module"
+independent_systems/grow_profit.py,Unused,"Support, prototype, or future-optional module"
+independent_systems/micro_saas_builder.py,Unused,"Support, prototype, or future-optional module"
+independent_systems/test_aria_system.py,Unused,Test or diagnostic module
+independent_systems/freelance_empire_bot.py,Unused,"Support, prototype, or future-optional module"
+independent_systems/grid_dashboard.py,Unused,Alternate or legacy UI
+independent_systems/aria_main.py,Unused,"Support, prototype, or future-optional module"
+independent_systems/overwatch_panel.py,Unused,"Support, prototype, or future-optional module"
+independent_systems/profit_dashboard_server.py,Unused,Alternate or legacy UI
+independent_systems/reflex_dashboard_routes.py,Unused,Alternate or legacy UI
+independent_systems/dashboard_app.py,Unused,Alternate or legacy UI
+independent_systems/security_guardian_phase_2.py,Unused,"Support, prototype, or future-optional module"
+independent_systems/trade_execution_service.py,Unused,"Support, prototype, or future-optional module"
+lab/autoscale_engine.py,Unused,"Support, prototype, or future-optional module"
+legacy/sarya_engine.py,Unused,Deprecated/legacy component
+legacy_unused/aria_dispatcher_gui_telegram_voice_dashboard.py,Unused,Alternate or legacy UI
+legacy_unused/real_time_alerts.py,Unused,Deprecated/legacy component
+legacy_unused/sentiment_analysis.py,Unused,Deprecated/legacy component
+memory/sarya_memory_core.py,Unused,"Support, prototype, or future-optional module"
+micro_saas/resume_booster.py,Unused,"Support, prototype, or future-optional module"
+monetization/Content_Monetization_And_Digital_Products.py,Unused,"Support, prototype, or future-optional module"
+monetization/SaaS_Monetization_Optimization.py,Unused,"Support, prototype, or future-optional module"
+monetization/Affiliate_Marketing_Strategies.py,Unused,"Support, prototype, or future-optional module"
+monetization_modules/Crypto_Arbitrage_And_Yield_Optimization.py,Unused,"Support, prototype, or future-optional module"
+monetization_modules/Freelance_Income_Automation.py,Unused,"Support, prototype, or future-optional module"
+monetization_modules/System_Integration_And_Continuous_Improvement.py,Unused,"Support, prototype, or future-optional module"
+monetization_modules/affiliate_scraper.py,Unused,"Support, prototype, or future-optional module"
+monetization_modules/income_core.py,Unused,"Support, prototype, or future-optional module"
+monetization_modules/income_auto_scaling.py,Unused,"Support, prototype, or future-optional module"
+monetization_modules/income_optimizer.py,Unused,"Support, prototype, or future-optional module"
+monetization_modules/gumroad_ai_upgrader.py,Unused,"Support, prototype, or future-optional module"
+monetization_modules/creative_business_generator.py,Unused,"Support, prototype, or future-optional module"
+monetization_modules/campaign_generator.py,Unused,"Support, prototype, or future-optional module"
+monetization_modules/creator_intercept.py,Unused,"Support, prototype, or future-optional module"
+monetization_modules/dm_sniper.py,Unused,"Support, prototype, or future-optional module"
+monetization_modules/auto_income_router.py,Unused,"Support, prototype, or future-optional module"
+monetization_modules/job_scraper.py,Unused,"Support, prototype, or future-optional module"
+monetization_modules/acquisition_engine.py,Unused,"Support, prototype, or future-optional module"
+monetization_modules/income_wallet_router.py,Unused,"Support, prototype, or future-optional module"
+monetization_modules/invoice_generator.py,Unused,Voice interface (currently dormant)
+monetization_modules/tool_launcher.py,Unused,"Support, prototype, or future-optional module"
+monetization_modules/ai_news_feed_handler.py,Unused,"Support, prototype, or future-optional module"
+monetization_modules/freelance_empire_bot.py,Unused,"Support, prototype, or future-optional module"
+monetization_modules/gumroad_autopilot.py,Unused,"Support, prototype, or future-optional module"
+monetization_modules/income_distribution_engine.py,Unused,"Support, prototype, or future-optional module"
+monetization_modules/risk_engine.py,Unused,"Support, prototype, or future-optional module"
+monetization_modules/test_Freelance_Income_Automation.py,Unused,Test or diagnostic module
+monetization_modules/test_auto_income_router.py,Unused,Test or diagnostic module
+monetization_modules/test_freelance_empire_bot.py,Unused,Test or diagnostic module
+monetization_modules/test_gumroad_ai_upgrader.py,Unused,Test or diagnostic module
+monetization_modules/test_gumroad_autopilot.py,Unused,Test or diagnostic module
+monetization_modules/test_income_auto_scaling.py,Unused,Test or diagnostic module
+monetization_modules/test_income_core.py,Unused,Test or diagnostic module
+monetization_modules/test_income_distribution.py,Unused,Test or diagnostic module
+monetization_modules/test_income_distribution_engine.py,Unused,Test or diagnostic module
+monetization_modules/test_income_optimizer.py,Unused,Test or diagnostic module
+monetization_modules/test_income_tracker.py,Unused,Test or diagnostic module
+monetization_modules/test_income_wallet_router.py,Unused,Test or diagnostic module
+monetization_modules/test_invoice_generator.py,Unused,Test or diagnostic module
+neural_map/sarya_engine.py,Unused,"Support, prototype, or future-optional module"
+neural_map/universal_command_handler.py,Unused,"Support, prototype, or future-optional module"
+neural_map/__init__.py,Unused,"Support, prototype, or future-optional module"
+neural_map/aria_dispatcher_gui_telegram_voice_dashboard/sarya_interface.py,Unused,Alternate or legacy UI
+neural_map/test_affiliate_autoposter/affiliate_autoposter.py,Unused,Test or diagnostic module
+neural_map/test_autoscale_engine/autoscale_engine.py,Unused,Test or diagnostic module
+neural_map/test_ghost_cloner/ghost_cloner.py,Unused,Test or diagnostic module
+neural_map/test_microservice_splitter/microservice_splitter.py,Unused,Test or diagnostic module
+neural_map/test_real_time_alerts/real_time_alerts.py,Unused,Test or diagnostic module
+neural_map/test_real_time_risk_grid/real_time_risk_grid.py,Unused,Test or diagnostic module
+neural_map/test_resume_booster/resume_booster.py,Unused,Test or diagnostic module
+neural_map/test_sentiment_analysis/sentiment_analysis.py,Unused,Test or diagnostic module
+neural_map/test_sentiment_fusion/sentiment_fusion.py,Unused,Test or diagnostic module
+neural_map/test_social_media_ghost_cloner/social_media_ghost_cloner.py,Unused,Test or diagnostic module
+neural_map/test_system_diagnostics/system_diagnostics.py,Unused,Test or diagnostic module
+plugins/plugin_sample.py,Unused,"Support, prototype, or future-optional module"
+reflex/reflex_feedback_core.py,Unused,Reflex-related or feedback system
+repaired/aria_dispatcher_gui_telegram_voice_dashboard.py,Unused,Alternate or legacy UI
+repaired/sentiment_analysis.py,Unused,"Support, prototype, or future-optional module"
+repaired/system_diagnostics.py,Unused,"Support, prototype, or future-optional module"
+social_tools/ghost_cloner.py,Unused,Clone launcher or job system
+systems/clone_intelligence/social_media_ghost_cloner.py,Unused,Clone launcher or job system
+systems/clone_intelligence/aria_dispatcher_gui_telegram_voice_dashboard.py,Unused,Alternate or legacy UI
+systems/clone_intelligence/system_diagnostics.py,Unused,Clone launcher or job system
+systems/clone_intelligence/autoscale_engine.py,Unused,Clone launcher or job system
+systems/clone_intelligence/sarya_interface.py,Unused,Clone launcher or job system
+systems/clone_intelligence/sarya_identity.py,Unused,Clone launcher or job system
+systems/clone_intelligence/sarya_engine.py,Unused,Clone launcher or job system
+systems/clone_intelligence/ghost_cloner.py,Unused,Clone launcher or job system
+systems/clone_intelligence/test_social_media_ghost_cloner.py,Unused,Test or diagnostic module
+systems/clone_intelligence/test_ghost_cloner.py,Unused,Test or diagnostic module
+systems/clone_intelligence_system/social_media_ghost_cloner.py,Unused,Clone launcher or job system
+systems/clone_intelligence_system/aria_dispatcher_gui_telegram_voice_dashboard.py,Unused,Alternate or legacy UI
+systems/clone_intelligence_system/sarya_identity.py,Unused,Clone launcher or job system
+systems/clone_intelligence_system/clone_auto_scaling.py,Unused,Clone launcher or job system
+systems/clone_intelligence_system/clone_evolution_engine.py,Unused,Clone launcher or job system
+systems/clone_intelligence_system/clone_factory.py,Unused,Clone launcher or job system
+systems/clone_intelligence_system/clone_farm.py,Unused,Clone launcher or job system
+systems/clone_intelligence_system/clone_intelligence_core.py,Unused,Clone launcher or job system
+systems/clone_intelligence_system/auto_healer.py,Unused,Clone launcher or job system
+systems/clone_intelligence_system/strategic_dashboard.py,Unused,Alternate or legacy UI
+systems/clone_intelligence_system/clone_journal.py,Unused,Clone launcher or job system
+systems/clone_intelligence_system/orchestrator.py,Unused,Clone launcher or job system
+systems/clone_intelligence_system/aria_kernel.py,Unused,Clone launcher or job system
+systems/clone_intelligence_system/license_generator.py,Unused,Clone launcher or job system
+systems/clone_intelligence_system/clone_command_engine.py,Unused,Clone launcher or job system
+systems/clone_intelligence_system/clone_hub.py,Unused,Clone launcher or job system
+systems/clone_intelligence_system/clone_income_router.py,Unused,Clone launcher or job system
+systems/clone_intelligence_system/clone_intelligence_sync.py,Unused,Clone launcher or job system
+systems/clone_intelligence_system/clone_memory_store.py,Unused,Clone launcher or job system
+systems/clone_intelligence_system/clone_mission_router.py,Unused,Clone launcher or job system
+systems/clone_intelligence_system/clone_orchestrator.py,Unused,Clone launcher or job system
+systems/clone_intelligence_system/replication_engine.py,Unused,Clone launcher or job system
+systems/clone_intelligence_system/clone_task_queue.py,Unused,Clone launcher or job system
+systems/clone_intelligence_system/clone_worker.py,Unused,Clone launcher or job system
+systems/clone_intelligence_system/clone_commands_telegram.py,Unused,Clone launcher or job system
+systems/clone_intelligence_system/clone_expansion_framework.py,Unused,Clone launcher or job system
+systems/clone_intelligence_system/clone_warfare_core.py,Unused,Clone launcher or job system
+systems/clone_intelligence_system/freelance_clone_1.py,Unused,Clone launcher or job system
+systems/clone_intelligence_system/shadow_unit_06.py,Unused,Clone launcher or job system
+systems/clone_intelligence_system/aria_boot_kernel.py,Unused,Clone launcher or job system
+systems/clone_intelligence_system/aria_dispatcher.py,Unused,Clone launcher or job system
+systems/clone_intelligence_system/module_validator.py,Unused,Clone launcher or job system
+systems/clone_intelligence_system/behavioral_targeting.py,Unused,Clone launcher or job system
+systems/clone_intelligence_system/data_integration.py,Unused,Clone launcher or job system
+systems/clone_intelligence_system/plugin_store.py,Unused,Clone launcher or job system
+systems/clone_intelligence_system/quantum_deployment_engine.py,Unused,Clone launcher or job system
+systems/clone_intelligence_system/reverse_engineer.py,Unused,Clone launcher or job system
+systems/clone_intelligence_system/email_writer.py,Unused,Clone launcher or job system
+systems/clone_intelligence_system/gig_autopilot.py,Unused,Clone launcher or job system
+systems/clone_intelligence_system/global_replication.py,Unused,Clone launcher or job system
+systems/clone_intelligence_system/grid_telegram_control.py,Unused,Clone launcher or job system
+systems/clone_intelligence_system/analytics_tracker.py,Unused,Clone launcher or job system
+systems/clone_intelligence_system/aria_interlink_engine.py,Unused,Clone launcher or job system
+systems/clone_intelligence_system/council_protocol.py,Unused,Clone launcher or job system
+systems/clone_intelligence_system/grid_node_engine.py,Unused,Clone launcher or job system
+systems/clone_intelligence_system/live_grid_controller.py,Unused,Clone launcher or job system
+systems/clone_intelligence_system/multi_agent_synergy.py,Unused,Clone launcher or job system
+systems/clone_intelligence_system/reinforcement_learning.py,Unused,Clone launcher or job system
+systems/clone_intelligence_system/mission_feedback_queue.py,Unused,Clone launcher or job system
+systems/clone_intelligence_system/profit_loop.py,Unused,Clone launcher or job system
+systems/clone_intelligence_system/aria_dispatcher_gui_telegram_voice.py,Unused,Voice interface (currently dormant)
+systems/clone_intelligence_system/aria_gui.py,Unused,Visual GUI prototype
+systems/clone_intelligence_system/grid_gui_launcher.py,Unused,Visual GUI prototype
+systems/clone_intelligence_system/emotion_layer.py,Unused,Clone launcher or job system
+systems/clone_intelligence_system/persona_engine.py,Unused,Clone launcher or job system
+systems/clone_intelligence_system/stealth_deployer.py,Unused,Clone launcher or job system
+systems/clone_intelligence_system/telemetry_collector.py,Unused,Clone launcher or job system
+systems/clone_intelligence_system/test_clone_auto_scaling.py,Unused,Test or diagnostic module
+systems/clone_intelligence_system/test_clone_command_engine.py,Unused,Test or diagnostic module
+systems/clone_intelligence_system/test_clone_commands_telegram.py,Unused,Test or diagnostic module
+systems/clone_intelligence_system/test_clone_evolution_engine.py,Unused,Test or diagnostic module
+systems/clone_intelligence_system/test_clone_expansion_framework.py,Unused,Test or diagnostic module
+systems/clone_intelligence_system/test_clone_factory.py,Unused,Test or diagnostic module
+systems/clone_intelligence_system/test_clone_farm.py,Unused,Test or diagnostic module
+systems/clone_intelligence_system/test_clone_hub.py,Unused,Test or diagnostic module
+systems/clone_intelligence_system/test_clone_income_router.py,Unused,Test or diagnostic module
+systems/clone_intelligence_system/test_clone_intelligence_core.py,Unused,Test or diagnostic module
+systems/clone_intelligence_system/test_clone_intelligence_sync.py,Unused,Test or diagnostic module
+systems/clone_intelligence_system/test_clone_journal.py,Unused,Test or diagnostic module
+systems/clone_intelligence_system/test_clone_manager.py,Unused,Test or diagnostic module
+systems/clone_intelligence_system/test_clone_memory_store.py,Unused,Test or diagnostic module
+systems/clone_intelligence_system/test_clone_mission_router.py,Unused,Test or diagnostic module
+systems/clone_intelligence_system/test_clone_orchestrator.py,Unused,Test or diagnostic module
+systems/clone_intelligence_system/test_clone_orchestrator_dashboard.py,Unused,Test or diagnostic module
+systems/clone_intelligence_system/test_clone_task_queue.py,Unused,Test or diagnostic module
+systems/clone_intelligence_system/test_clone_warfare_core.py,Unused,Test or diagnostic module
+systems/clone_intelligence_system/test_clone_worker.py,Unused,Test or diagnostic module
+systems/clone_intelligence_system/test_freelance_clone_1.py,Unused,Test or diagnostic module
+systems/clone_intelligence_system/test_mission_feedback_queue.py,Unused,Test or diagnostic module
+systems/clone_intelligence_system/test_persona_engine.py,Unused,Test or diagnostic module
+systems/clone_intelligence_system/test_voice_persona_phase_2.py,Unused,Test or diagnostic module
+systems/clone_intelligence_system/ai_cloning_feedback.py,Unused,Clone launcher or job system
+systems/clone_intelligence_system/voice_persona_phase_2.py,Unused,Voice interface (currently dormant)
+systems/clone_intelligence_system/llm_agent.py,Unused,Clone launcher or job system
+systems/clone_intelligence_system/test_llm_agent.py,Unused,Test or diagnostic module
+systems/clone_intelligence_system/test_multi_agent_synergy.py,Unused,Test or diagnostic module
+systems/clone_intelligence_system/test_global_replication.py,Unused,Test or diagnostic module
+systems/clone_intelligence_system/test_replication_engine.py,Unused,Test or diagnostic module
+systems/clone_intelligence_system/analytics_dashboard.py,Unused,Alternate or legacy UI
+systems/clone_intelligence_system/aria_api.py,Unused,Clone launcher or job system
+systems/clone_intelligence_system/aria_console.py,Unused,Clone launcher or job system
+systems/clone_intelligence_system/clone_orchestrator_dashboard.py,Unused,Alternate or legacy UI
+systems/clone_intelligence_system/aria_unified_main.py,Unused,Clone launcher or job system
+systems/clone_intelligence_system/aria.py,Unused,Clone launcher or job system
+systems/clone_intelligence_system/ghost_cloner.py,Unused,Clone launcher or job system
+systems/clone_intelligence_system/AI_Trading_Enhancements.py,Unused,Trading-related (currently inactive)
+systems/clone_intelligence_system/global_ops_coordinator.py,Unused,Clone launcher or job system
+systems/clone_intelligence_system/strategy_reflex.py,Unused,Clone launcher or job system
+systems/clone_intelligence_system/async_core_executor.py,Unused,Clone launcher or job system
+systems/clone_intelligence_system/edge_computing.py,Unused,Clone launcher or job system
+systems/dashboard_voice/test_aria_dispatcher_gui_telegram_voice_dashboard.py,Unused,Test or diagnostic module
+systems/experimental_lab/affiliate_autoposter.py,Unused,Experimental or future module
+systems/experimental_lab/test_affiliate_autoposter.py,Unused,Test or diagnostic module
+systems/experimental_lab/test_autoscale_engine.py,Unused,Test or diagnostic module
+systems/experimental_lab/test_system_diagnostics.py,Unused,Test or diagnostic module
+systems/experimental_lab/test_resume_booster.py,Unused,Test or diagnostic module
+systems/experimental_lab/test_microservice_splitter.py,Unused,Test or diagnostic module
+systems/experimental_lab/resume_booster.py,Unused,Experimental or future module
+systems/experimental_lab/test_real_time_risk_grid.py,Unused,Test or diagnostic module
+systems/experimental_lab/microservice_splitter.py,Unused,Experimental or future module
+systems/freelance_bot/aria_dispatcher_gui_telegram_voice_dashboard.py,Unused,Alternate or legacy UI
+systems/signal_alerts/real_time_alerts.py,Unused,"Support, prototype, or future-optional module"
+systems/signal_alerts/dispatcher_core.py,Unused,"Support, prototype, or future-optional module"
+systems/signal_alerts/sentiment_fusion.py,Unused,"Support, prototype, or future-optional module"
+systems/signal_alerts/test_real_time_alerts.py,Unused,Test or diagnostic module
+systems/signal_alerts/test_sentiment_analysis.py,Unused,Test or diagnostic module
+systems/signal_alerts/test_sentiment_fusion.py,Unused,Test or diagnostic module
+systems/trading_ai/sentiment_analysis.py,Unused,Trading-related (currently inactive)
+systems/trading_ai/real_time_risk_grid.py,Unused,Trading-related (currently inactive)
+tests/test_social_media_ghost_cloner.py,Unused,Test or diagnostic module
+tests/test_aria_dispatcher_gui_telegram_voice_dashboard.py,Unused,Test or diagnostic module
+tests/test_real_time_risk_grid.py,Unused,Test or diagnostic module
+tests/test_ghost_cloner.py,Unused,Test or diagnostic module
+trading_ai/AI_Trading_Enhancements.py,Unused,Trading-related (currently inactive)
+trading_ai/adaptive_strategy.py,Unused,Trading-related (currently inactive)
+trading_ai/predictive_hyperloop.py,Unused,Trading-related (currently inactive)
+trading_ai/opportunity_scanner.py,Unused,Trading-related (currently inactive)
+uncategorized/command_router.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/env_loader.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/voice_manager.py,Unused,Voice interface (currently dormant)
+uncategorized/aria_dispatcher.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/aria_mode_switcher.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/creative_generator.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/clone_expansion_framework.py,Unused,Clone launcher or job system
+uncategorized/aria_boot.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/aria_kernel.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/aria_status.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/boot.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/config.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/global_ops_coordinator.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/mirror_sync_engine.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/regulatory_compliance.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/sarya_learning_loop.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/security_guardian.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/self_healing.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/spending_interceptor.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/staking_bot.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/yield_scanner.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/advanced_allocator.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/affiliate_bot.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/compliance_engine.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/email_campaign.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/federated_learning.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/master_audit_engine.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/persistent_core.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/plugin_engine.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/reinforcement_learning.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/security_compliance.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/snapshot_engine.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/trend_seeker_bot.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/user_segmentation.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/pricing_engine.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/dynamic_strategy_switcher.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/dynamic_strategy_switcher_optimized.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/emotion_voice_layer.py,Unused,Voice interface (currently dormant)
+uncategorized/event_driven_simulation.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/event_logger.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/revenue_feedback.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/funnel_builder.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/compliance_guardian.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/quantum_reactor.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/base_module.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/data_cache.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/llm_agent.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/log_manager.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/neural_overdrive.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/neural_vanta_fusion.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/parallel_executor.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/portfolio_intelligence.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/resource_manager.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/launch_dashboard.py,Unused,Alternate or legacy UI
+uncategorized/strategy_leaderboard.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/meta_command_layer.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/saas_autobuilder.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/multi_asset_strategy.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/console_interface.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/gui_launcher.py,Unused,Visual GUI prototype
+uncategorized/telegram_control.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/quantum_adaptive_loop.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/reflex_feedback_core.py,Unused,Reflex-related or feedback system
+uncategorized/ai_trade_manager.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/strategy_reflex.py,Unused,Reflex-related or feedback system
+uncategorized/aria_lifepath_mode.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/market_data.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/retry_backoff.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/risk_management.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/ml_risk_predictor.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/serverless_trade_execution.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/setup.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/signal_memory_engine.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/social_content_builder.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/tiktok_ig_builder.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/codex_lock.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/soul_core.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/speech_engine.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/voice_alerts.py,Unused,Voice interface (currently dormant)
+uncategorized/strategic_profit_loop.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/strategy_feedback_ai.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/strategy_override_engine.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/telegram_bot.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/terminal_dashboard.py,Unused,Alternate or legacy UI
+uncategorized/arima_forecasting.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/auto_trading_intelligence_3_0.py,Unused,Trading-related (currently inactive)
+uncategorized/context.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/strategic_reflex_loop.py,Unused,Reflex-related or feedback system
+uncategorized/cache_config.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/strategy_evolution.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/volatility_monitor.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/async_core_executor.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/cognitive_cache_reactor.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/edge_computing.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/revenue_chaining.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/strategy_forker.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/telemetry_monitoring.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/config_loader.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/encryption_utils.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/log_handler.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/voice_command_ai.py,Unused,Voice interface (currently dormant)
+uncategorized/grid_gui_launcher.py,Unused,Visual GUI prototype
+uncategorized/telegram_reflex_commands.py,Unused,Reflex-related or feedback system
+uncategorized/volatility_shield.py,Unused,"Support, prototype, or future-optional module"
+uncategorized/__init__.py,Unused,"Support, prototype, or future-optional module"
+utils/microservice_splitter.py,Unused,"Support, prototype, or future-optional module"
+voice_gui/aria_dispatcher_gui_telegram_voice_dashboard.py,Unused,Alternate or legacy UI

@@ -1,0 +1,33 @@
+{
+    "Replit AI": {
+        "type": "agent",
+        "access_method": "internal_prompt",
+        "capabilities": [
+            "code_generation",
+            "error_fixing",
+            "file_repair"
+        ],
+        "status": "enabled"
+    },
+    "n8n": {
+        "type": "workflow_orchestrator",
+        "access_method": "http_webhook",
+        "webhook_url": "http://localhost:5678/webhook/trigger",
+        "capabilities": [
+            "module_linking",
+            "automation",
+            "reflex_triggering"
+        ],
+        "status": "enabled"
+    },
+    "Claude": {
+        "type": "external_ai",
+        "access_method": "api_prompt",
+        "capabilities": [
+            "strategic_planning",
+            "code_review",
+            "philosophical_analysis"
+        ],
+        "status": "pending_integration"
+    }
+}

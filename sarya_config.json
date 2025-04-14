@@ -1,0 +1,73 @@
+{
+  "redis": {
+    "enabled": false
+  },
+  "api": {
+    "port": 5000,
+    "workers": 1
+  },
+  "clone_system": {
+    "max_workers": 2
+  },
+  "clone_types": ["VantaHybridUnit"],
+  "modules": {
+    "audience_system": {
+      "enabled": true,
+      "supabase_table": "audience_contacts",
+      "n8n_webhook": "https://n8n.your-domain.com/webhook/email"
+    }
+  },
+  "vanta": {
+    "enabled": true,
+    "reflex_enabled": true,
+    "memory_sync": true,
+    "telegram_alerts": true
+  }
+}
+{
+    "vanta": {
+        "enabled": true,
+        "strategies": {
+            "freelance": {
+                "scan_interval": 3600,
+                "max_applications": 10,
+                "keywords_weight": 0.7
+            },
+            "saas": {
+                "deploy_template": "replit/saas-starter",
+                "auto_scale": true,
+                "monitor_interval": 1800
+            },
+            "products": {
+                "gumroad_api_key": "${GUMROAD_API_KEY}",
+                "auto_optimize": true,
+                "min_price": 9.99
+            },
+            "trading": {
+                "exchange": "binance",
+                "api_key": "${BINANCE_API_KEY}",
+                "api_secret": "${BINANCE_API_SECRET}",
+                "max_positions": 5
+            },
+            "payments": {
+                "stripe_key": "${STRIPE_KEY}",
+                "auto_convert": true,
+                "min_balance": 100
+            }
+        },
+        "telegram": {
+            "bot_token": "${TELEGRAM_BOT_TOKEN}",
+            "chat_id": "${TELEGRAM_CHAT_ID}",
+            "notify_income": true
+        },
+        "n8n": {
+            "webhook_url": "${N8N_WEBHOOK_URL}",
+            "api_key": "${N8N_API_KEY}"
+        },
+        "supabase": {
+            "url": "${SUPABASE_URL}",
+            "key": "${SUPABASE_KEY}",
+            "auto_backup": true
+        }
+    }
+}
