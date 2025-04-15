@@ -5,7 +5,6 @@ pydantic==2.4.2
 python-jose==3.3.0
 requests==2.31.0
 ccxt==4.1.13
-gumroad==0.6.0
 upwork-api==1.5.4
 supabase==2.0.3
 aiohttp==3.9.1
