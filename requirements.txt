@@ -9,3 +9,4 @@ supabase==2.0.3
 aiohttp==3.9.1
 apscheduler==3.10.4
 mailersend==0.5.6
+redis==5.0.1
