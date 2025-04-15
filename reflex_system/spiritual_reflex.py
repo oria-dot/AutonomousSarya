@@ -1,8 +1,8 @@
+
 from abc import ABC, abstractmethod
 from datetime import datetime
 
 class BaseReflex(ABC):
-
     @abstractmethod
     def _start(self):
         pass
@@ -28,5 +28,5 @@ class SpiritualReflex(BaseReflex):
     def get_insights(self):
         return self.insight_log
 
-# Global instance
-spiritual_reflex = SpiritualReflex()
+# Global instance with correct export name
+spiritual_reflex_manager = SpiritualReflex()
