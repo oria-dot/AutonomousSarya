@@ -10,3 +10,4 @@ aiohttp==3.9.1
 apscheduler==3.10.4
 mailersend==0.5.6
 redis==5.0.1
+prometheus_client==0.17.1
