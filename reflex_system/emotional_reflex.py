@@ -1,49 +1,46 @@
-"""
-Emotional Reflex Manager for SARYA.
-Handles emotional state mapping and triggers.
-"""
-import json
-import logging
-import time
-from typing import Dict, Optional
 
-from core.base_module import BaseModule
-from core.event_bus import Event, event_bus
-from core.memory import memory_system
+from abc import ABC, abstractmethod
+from datetime import datetime
+import random
 
-class EmotionalReflexManager(BaseModule):
+class BaseReflexManager(ABC):
+
+    @abstractmethod
+    def _start(self):
+        pass
+
+    @abstractmethod
+    def _stop(self):
+        pass
+
+class EmotionalReflexManager(BaseReflexManager):
     def __init__(self):
-        super().__init__("EmotionalReflexManager")
-        self.emotional_states = {}
-        self.state_history = []
+        self.active = False
+        self.mood = "neutral"
+        self.history = []
 
-    def _initialize(self) -> bool:
-        event_bus.subscribe("reflex.signal", self._on_reflex_signal)
-        return True
+    def _start(self):
+        self.active = True
+        self._update_mood("initiating")
+        print(f"[EMOTION REFLEX] Started at {datetime.now()} with mood: {self.mood}")
 
-    def process_emotional_state(self, data: Dict) -> Dict:
-        intensity = data.get("intensity", 0.0)
-        context = data.get("context", {})
+    def _stop(self):
+        self._update_mood("dormant")
+        self.active = False
+        print(f"[EMOTION REFLEX] Stopped at {datetime.now()} with mood: {self.mood}")
 
-        state = {
-            "timestamp": time.time(),
-            "intensity": intensity,
-            "context": context,
-            "emotional_response": self._calculate_response(intensity, context)
-        }
+    def _update_mood(self, new_mood=None):
+        if not new_mood:
+            new_mood = random.choice(["focused", "calm", "alert", "neutral", "curious"])
+        self.mood = new_mood
+        self.history.append((datetime.now(), self.mood))
+        print(f"[EMOTION REFLEX] Mood changed to: {self.mood}")
 
-        self.state_history.append(state)
-        return state
+    def get_current_mood(self):
+        return self.mood
 
-    def _calculate_response(self, intensity: float, context: Dict) -> str:
-        if intensity > 0.8:
-            return "highly_reactive"
-        elif intensity > 0.5:
-            return "moderately_reactive"
-        return "stable"
+    def get_mood_history(self):
+        return self.history
 
-    def _on_reflex_signal(self, event: Event) -> None:
-        if event.data.get("type") == "emotional":
-            self.process_emotional_state(event.data)
-
+# Global instance
 emotional_reflex_manager = EmotionalReflexManager()
